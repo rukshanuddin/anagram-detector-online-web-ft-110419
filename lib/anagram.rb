@@ -11,6 +11,7 @@ def match(array)
   array.each do |word|
     if word == word.reverse
       matches << word
+    end
   end
 end
 end
