@@ -4,6 +4,6 @@ def initialize(word)
 
 end
 
-def match
+def match(arg)
 end
 end
