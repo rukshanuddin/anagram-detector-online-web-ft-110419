@@ -12,6 +12,8 @@ def match(array)
     if word == word.reverse
       matches << word
     end
+    
   end
+  matches
 end
 end
